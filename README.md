@@ -10,6 +10,7 @@ python ./DataAugmentation/processing_documents.py
 ```
 
 ##
+Otherwise, you can download constructed dataset by [here](https://drive.google.com/drive/folders/1DVvDaDNJRVeUTXnNEfnY0WM7WI-_QsHM?usp=sharing)
 
 
 ## Train
