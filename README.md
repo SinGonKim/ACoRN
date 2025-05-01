@@ -18,6 +18,11 @@ Otherwise, you can download constructed dataset by [here](https://drive.google.c
 bash ./train/train.sh
 ```
 
+##
+You can download trained model
+nq: [ACoRN_Flan-t5-large-nq](https://huggingface.co/Alan96/ACoRN_Flan-t5-large-nq)
+triviaQA: [ACoRN_Flan-t5-large-triviaqa](https://huggingface.co/Alan96/ACoRN_Flan-t5-large-triviaQA)
+popQA: [ACoRN_Flan-t5-large-popqa](https://huggingface.co/Alan96/ACoRN_Flan-t5-large-popQA)
 
 ## Inference
 ```
