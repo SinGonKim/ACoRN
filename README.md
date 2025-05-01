@@ -1,6 +1,8 @@
 # ACoRN
 ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models
 
+[Paper](https://arxiv.org/pdf/2504.12673)
+
 
 ## Data Construction
 
